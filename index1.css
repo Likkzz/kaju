@@ -1,4 +1,7 @@
 body{
     background-color:#79E0EE;
-
+}
+.lion{
+    border-bottom-right-radius: 3%;
+    border-bottom-left-radius: 3%;
 }
