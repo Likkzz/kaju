@@ -12,8 +12,9 @@ html {
      align-contents: center;
      height: 100%;
    }
+head { font-family: Comic}
 body {
-    font-family: Times; width: 1300px;}
+    font-family: Times}
 p{border-style: groove; padding: 30px; border-color: #FFAAA6;}   
    /* Styles for the tilt block */
    #tilt {
