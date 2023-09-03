@@ -12,14 +12,17 @@ html {
      align-contents: center;
      height: 100%;
    }
-   
+body {
+    font-family: Times;
+    height: 600px; width: 800px;}
+p{border-style: groove; padding: 15px; border-color: #FFAAA6;}   
    /* Styles for the tilt block */
    #tilt {
      display: block;
      height: 200px;
      width: 300px;
      background-color: grey;
-     margin: 0 auto;
+     margin: 0.5 auto;
      transition: box-shadow 0.1s, transform 0.1s;
      
      /*
@@ -35,4 +38,4 @@ html {
      box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
      cursor: pointer;
    }
-   p{border-style: groove; padding: 15px; border-color: #FFAAA6;}
+
