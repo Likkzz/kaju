@@ -35,4 +35,4 @@ html {
      box-shadow: 0px 0px 30px rgba(0,0,0, 0.6);
      cursor: pointer;
    }
-   
+   p{border-style: groove; padding: 15px; border-color: #FFAAA6;}
