@@ -13,9 +13,8 @@ html {
      height: 100%;
    }
 body {
-    font-family: Times;
-    height: 600px; width: 800px;}
-p{border-style: groove; padding: 15px; border-color: #FFAAA6;}   
+    font-family: Times; width: 1300px;}
+p{border-style: groove; padding: 30px; border-color: #FFAAA6;}   
    /* Styles for the tilt block */
    #tilt {
      display: block;
