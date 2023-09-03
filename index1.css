@@ -1,5 +1,5 @@
 body{
-    background-color:#79E0EE;
+    background-color:FFF2F2;
 }
 .lion{
     border-bottom-right-radius: 3%;
@@ -26,7 +26,7 @@ html {
        * Adding image to the background
        * No relation to the hover effect.
        */
-     background-image: url(https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/kaju-katli.jpg);
+     background-image: url(https://kanwarjis.in/storage/images/multi-products/6315c0c82ad33.jpg);
      background-size: 100%;
      background-repeat: no-repeat;
    }
